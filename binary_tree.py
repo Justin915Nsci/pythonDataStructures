@@ -74,6 +74,7 @@ class binary_tree:
 #	def __init__(self,x):
 #		self.store = [x,[]]
 
+#test function
 def main():		
 	x=binary_tree(1)
 	x.AddLeft(binary_tree(2))
